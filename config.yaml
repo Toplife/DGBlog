@@ -15,7 +15,7 @@ permalinks:
 
 paginate: 3
 
-googleAnalytics: your-google-analytics-id
+googleAnalytics: G-VC8XJ2RETS
 disqusShortname: dgblog-3
 
 # Hugo Configure Markup
@@ -37,8 +37,8 @@ markup:
 social:
   # e.g.
   github: https://github.com/Toplife
-  twitter: your-twitter-link
-  stackoverflow: your-stackoverflow-link
+  # twitter: your-twitter-link
+  # stackoverflow: your-stackoverflow-link
   # facebook: your-facebook-link
 
 
@@ -65,14 +65,14 @@ params:
   # To enable table of content, you could set `showToc: true`, default is `false`
   showToc: true
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
-  showPowerBy: true
+  showPowerBy: false
   # To enable math typesetting , you could set `math: true`, default is `false`
   math: false
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
   copyright: '© Copyright 2024 ❤️ {params.author}'
-  powerby: 'D&G'
+  #powerby: 'D&G'
 
   # Extra links in navigation
   links:
