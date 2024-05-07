@@ -4,7 +4,7 @@ title: D&G Blog
 theme: mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
-defaultContentLanguage: zh
+defaultContentLanguage: en
 
 # !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
 # themesDir: ../../
@@ -71,7 +71,7 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: '© Copyright 2024 ❤️ {params.author}'
+  copyright: '© Copyright 2024 ❤️ D&G'
   #powerby: 'D&G'
 
   # Extra links in navigation
