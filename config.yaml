@@ -1,10 +1,10 @@
-baseURL: http://blog.davidguo.cn/
+baseURL: http://blog.davidguo.cn
 languageCode: en-us
 title: D&G Blog
 theme: mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
-defaultContentLanguage: en
+defaultContentLanguage: zh
 
 # !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
 # themesDir: ../../
@@ -67,25 +67,24 @@ params:
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
   showPowerBy: false
   # To enable math typesetting , you could set `math: true`, default is `false`
-  math: false
+  math: true
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: '© Copyright 2024 ❤️ D&G'
-  #powerby: 'D&G'
+  copyright: ''
 
   # Extra links in navigation
-  links:
+  # links:
     ## e.g.
     # - name: Project
     #   path: /project
 
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
-  customCSS:
+  # customCSS:
     ## e.g.
     # - css/custom.css # local css in `static/css/custom.css`
     # - https://example.com/custom.css # remote css
-  customJS:
+  # customJS:
     ## e.g.
     # - js/custom.js # local js in `static/js/custom.js`
     # - https://example.com/custom.js # remote js
