@@ -1,6 +1,6 @@
 baseURL: http://blog.davidguo.cn
 languageCode: en-us
-title: D&G Blog
+title: D&G
 theme: mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
